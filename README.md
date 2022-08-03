@@ -1,5 +1,5 @@
 # airsoftturret
-Some of the source code from my airsoft turret project.
+Some of the source code from my airsoft turret project. (Unity client source files are not included for now)
 
 Simple explanation of how it works:
 
