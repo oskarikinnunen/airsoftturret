@@ -3,7 +3,7 @@ Some of the source code from my airsoft turret project. (Unity client source fil
 
 Simple explanation of how it works:
 
-<img src="https://user-images.githubusercontent.com/45420297/182594852-112db2e2-724e-422b-ab08-1f6cb34b21fe.png" alt="drawing"/>
+![tykkiexplainedVertical](https://user-images.githubusercontent.com/45420297/182607817-0396a9bb-892f-48a9-a9a1-e3aa1edf838c.png)
 
 ## Images:
 
