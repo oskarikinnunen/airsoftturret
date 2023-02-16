@@ -1,7 +1,7 @@
 Airsoft turret built for the TSTOS 2021 airsoft event. Features:
-  - 360 degree rotation
+  - 360 degree rotation turret, bolted on top of a fabulous Lada Samara combat vehicle
   - Night vision (Infrared camera and lights)
-  - Wireless control using a laptop and an xbox 360 controller
+  - Wireless control of fully automatic airsoft weapon using a laptop and an xbox 360 controller
 
 Uses my own software which comprises of a Windows client, a Raspberry Pi server, and an Arduino.
 The Windows client, built using Unity/C#, displays video from a camera at a URL and gathers input data from controller/keyboard inputs. It then constructs a control string that is sent to the Raspberry Pi over a local network.
