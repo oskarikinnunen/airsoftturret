@@ -13,7 +13,8 @@ The Raspberry Pi server software, built using .NET Core 3.1/C#, receives the con
 The Arduino, programmed in C/C++, receives the control string and interprets it. It then communicates with multiple motor controllers and relays using digitalwrite, analogwrite, and some functions from the Servo.h header.
 
 ## Images:
-![view](https://user-images.githubusercontent.com/45420297/219242728-62cbb14f-009e-40f1-b8f8-b266e7d0f40b.gif)
+
 <img src="https://user-images.githubusercontent.com/45420297/182593473-d3c663e6-0622-4838-8d1d-447931a8da50.png" alt="drawing" width="500"/>
 <img src="https://user-images.githubusercontent.com/45420297/182592581-a92fcc81-68ac-4bcb-899a-2feb51ec9567.gif" alt="drawing" width="500"/>
 <img src="https://user-images.githubusercontent.com/45420297/182594155-0909a873-9fb5-4136-91cd-f186e8420faf.png" alt="drawing" width="500"/>
+![view](https://user-images.githubusercontent.com/45420297/219242728-62cbb14f-009e-40f1-b8f8-b266e7d0f40b.gif)
