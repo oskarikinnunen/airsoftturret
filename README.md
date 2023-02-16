@@ -3,6 +3,8 @@ Airsoft turret built for the TSTOS 2021 airsoft event. Features:
   - Night vision (Infrared camera and lights)
   - Wireless control of fully automatic airsoft weapon using a laptop and an xbox 360 controller
 
+For the X axis movement it's using a car windshield wiper, with a chain drive mechanism. For the Y axis it's using a smaller continuous servo motor with a 3D printed worm gear mechanism.
+
 Uses my own software which comprises of a Windows client, a Raspberry Pi server, and an Arduino.
 The Windows client, built using Unity/C#, displays video from a camera at a URL and gathers input data from controller/keyboard inputs. It then constructs a control string that is sent to the Raspberry Pi over a local network.
 
