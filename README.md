@@ -20,7 +20,7 @@ The Windows client, built using Unity/C#, displays video from a camera at a URL 
 
 The Raspberry Pi server software, built using .NET Core 3.1/C#, receives the control string and sends it to the Arduino via USB. The Raspberry Pi also has USB cameras attached to it, and it uses a free software called "Motion" to stream the video from these cameras back to the Windows client.
 
-The Arduino, programmed in C/C++, receives the control string and interprets it. It then communicates with multiple motor controllers and relays using digitalwrite, analogwrite, and some functions from the Servo.h header.
+The Arduino receives the control string and interprets it. It then communicates with multiple motor controllers and relays using digitalwrite, analogwrite, and some functions from the Servo.h header.
 
 ## Images:
 
